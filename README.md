@@ -1,4 +1,4 @@
-Seamcarving
+# Seamcarving
 
 Python version Seamcarving implementation, with extra novel ideas.
 
@@ -62,3 +62,4 @@ python3 main.py
 |       T        |      T      |       T       |      211      |   8.15    |
 
 ![avatar](readme/07.JPG)
+For more detailed information, please refier to seamcarvimg.pdf
