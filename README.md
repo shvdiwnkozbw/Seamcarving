@@ -33,6 +33,8 @@ python3 main.py
 
 ### Performance
 
+For more detailed information, please refier to seamcarvimg.pdf
+
 #### Image shrink
 
 ![avatar](readme/02.JPG)
@@ -62,4 +64,4 @@ python3 main.py
 |       T        |      T      |       T       |      211      |   8.15    |
 
 ![avatar](readme/07.JPG)
-For more detailed information, please refier to seamcarvimg.pdf
+
