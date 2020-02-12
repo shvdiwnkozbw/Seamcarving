@@ -2,9 +2,7 @@
 
 Python version Seamcarving implementation, with extra novel ideas.
 
-Besides the basic functions proposed in paper [Seam Carving for Content-Aware Image Resizing](https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf)
-
-, we proposed some optimization and expanded applications.
+Besides the basic functions proposed in paper [Seam Carving for Content-Aware Image Resizing](https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf), we proposed some optimization and expanded applications.
 
 ### Novelty
 
