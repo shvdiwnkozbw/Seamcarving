@@ -16,7 +16,7 @@ Besides the basic functions proposed in paper [Seam Carving for Content-Aware Im
 main.py [-h]
 optinal arguments:
 [--new_height] target height after resizing
-[--new_width] totoal target width after resizing
+[--new_width] target width after resizing
 [--filename_input] input image filename
 [--object_mask] mask of object to remove
 [--protect_mask] mask of object to protect
